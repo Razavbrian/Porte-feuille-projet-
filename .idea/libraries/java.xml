@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/newvenv/lib/python3.12/site-packages/zxing/java/javase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/newvenv/lib/python3.12/site-packages/zxing/java/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/newvenv/lib/python3.12/site-packages/zxing/java/jcommander.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
